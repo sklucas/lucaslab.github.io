@@ -5,6 +5,6 @@
 
   # sklucas's Website
 
-  Visit **[sklucas.github.io/lucas-lab-website](https://sklucas.github.io/lucas-lab-website)** 🚀
+  Visit **[sklucas.github.io/lucaslab.github.io](https://sklucas.github.io/lucaslab.github.io)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
