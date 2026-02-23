@@ -1,1 +1,1 @@
-Sitemap: https://sklucas.github.io/lucaslab.github.io/sitemap.xml
+Sitemap: http://www.lucaslab.org/sitemap.xml
